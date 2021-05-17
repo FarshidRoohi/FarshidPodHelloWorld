@@ -8,7 +8,7 @@ Pod::Spec.new do |spec|
   spec.license      = "MIT"
   spec.author             = { "Farshidroohi" => "farshid.roohi.a@gmail.com" }
   spec.platform     = :ios, "11.0"
-  spec.source       = { :git => "https://github.com/FarshidRoohi/FarshidPodHelloWorld.git", :tag => "0.0.1}" }
+  spec.source       = { :git => "https://github.com/FarshidRoohi/FarshidPodHelloWorld.git", :tag => "0.0.1" }
   spec.source_files  = "Classes", "Classes/**/*.{h,m}"
 
 end
